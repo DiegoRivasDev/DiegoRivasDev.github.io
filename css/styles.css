@@ -939,14 +939,14 @@ width: 70vw;
     /* here */
 .hero .content span {
     color: aquamarine;
-    font-size: 1em;
+    font-size: 0.8em;
     font-family:gaoel;
     }
     
     
     /* here */
     .hero .content h1{
-    font-size: 3em;
+    font-size: 2em;
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 5px;
