@@ -2,10 +2,6 @@
 welcome this is my web site which is my portfolio
 
 
-
-### video link: 
-
-
 # Take a look at my website
  :earth_americas: [Diego Rivas | Software engineer & Developer](https://diegorivasdev.github.io)
 
