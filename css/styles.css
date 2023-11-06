@@ -968,14 +968,14 @@ width: 70vw;
 /* here */
 .hero .content span {
     color: aquamarine;
-    font-size: 1.2em;
+    font-size: 1em;
     font-family:gaoel;
     }
     
     
     /* here */
     .hero .content h1{
-    font-size: 2em;
+    font-size: 1.8em;
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 5px;
