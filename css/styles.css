@@ -989,5 +989,23 @@ width: 70vw;
     
     }
 
+<<<<<<< HEAD
 
 }
+=======
+    
+body::-webkit-scrollbar{
+display: none;
+}
+
+body::-webkit-scrollbar-thumb{
+    display: none;
+}
+
+body::-webkit-scrollbar-thumb:hover{
+    display: none;
+}
+
+
+}
+>>>>>>> 128ddb97e5c7546f996f59dc0661359c439224e4
