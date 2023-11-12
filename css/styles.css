@@ -112,7 +112,8 @@ height: 500px !important;
 
     .about_iframe{
         width: 100% !important;
-        height: 700px !important;
+        height: 850px !important;
+
     }
 
 
@@ -975,19 +976,24 @@ width: 70vw;
     color: aquamarine;
     font-size: 1em;
     font-family:gaoel;
+
     }
     
-    
+
+
+
     /* here */
     .hero .content h1{
-    font-size: 1.8em;
-    font-weight: 900;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-    margin-top: 40px;
-    font-family:gaoel;
-    
-    }
+        font-size: 1.8em;
+        font-weight: 900;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        margin-top: 40px;
+        font-family:gaoel;
+        
+        }
+
+
 
     .about_iframe{
         width: 100% !important;
@@ -1012,5 +1018,9 @@ width: 70vw;
 display: none;
     
     }
+
+
+
+
 
 }
