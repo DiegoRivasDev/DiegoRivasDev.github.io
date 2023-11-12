@@ -112,7 +112,7 @@ height: 500px !important;
 
     .about_iframe{
         width: 100% !important;
-        height: 850px !important;
+        height: 750px !important;
 
     }
 
@@ -872,6 +872,7 @@ display: none;
     width: 100vw;
     align-items: center;
     background-color: azure;
+    height: 850px !important;
     }
     
     .sircuito{
@@ -995,10 +996,11 @@ width: 70vw;
 
 
 
-    .about_iframe{
-        width: 100% !important;
-        height: 830px !important;
-    }
+        .about_iframe{
+            width: 100% !important;
+            height: 850px !important;
+    
+        }
 
 
 
